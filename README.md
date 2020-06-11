@@ -1,6 +1,7 @@
 # data-warehousing
 data warehousing project with Bike MS Dataset
- #refer report.doc for clear understandings 
+
+#refer report.doc for clear understandings 
 
 1. Conceptual Schema (Dimensional fact model Design)
 
